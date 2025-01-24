@@ -1,0 +1,9 @@
+.cardsContainer{
+    width: auto;
+   
+}
+.imgCards{
+    object-fit: cover;
+    height: 300px;
+    width: 200px;
+}
